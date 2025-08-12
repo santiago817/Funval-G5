@@ -3,6 +3,25 @@
      background: linear-gradient(to right, rgb(54, 46, 46), rgb(192, 20, 20))
 }
 
-body{
-    background: linear-gradient(to right, rgb(54, 46, 46), rgb(192, 20, 20))
+
+p {
+  background-color: grey;
+  width: fit-content; 
+}
+
+body {
+  background: url('https://wallpapers.com/images/hd/gurren-lagann-4k-0x620rw5iy3m97gs.jpg');
+  margin: 0;
+  height: 100vh;
+}
+
+
+ol{
+    background-color: gray;
+    width: fit-content; 
+}
+
+
+.La{
+    color: black;
 }
